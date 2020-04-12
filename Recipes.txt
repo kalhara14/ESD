@@ -2,3 +2,4 @@
 
 This file is regarding my ESD assessment 3.
   
+1. How to commit in git - once you are ready to commit add a meaning full description of changes you have done and commit.
