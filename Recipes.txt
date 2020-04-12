@@ -3,3 +3,5 @@
 This file is regarding my ESD assessment 3.
   
 1. How to commit in git - once you are ready to commit add a meaning full description of changes you have done and commit.
+
+2. how to create a branch - when commiting click on "create a new branch" give your branch a name and commit changes.
