@@ -3,3 +3,11 @@
 This file is regarding my ESD assessment 3.
   
 1. How to commit in git - once you are ready to commit add a meaning full description of changes you have done and commit.
+
+2. how to create a branch - when commiting click on "create a new branch" give your branch a name and commit changes.
+
+3.how to merge to master branch - when you are ready to merge start a new pull request. After that if there are no merge conflicts you can merge two branches otherwise you have to manully resolve conflicts and then merge two branches.
+
+Note that all above instructions using web interface, in CLI steps can be different.
+
+Thank you.
